@@ -1,6 +1,7 @@
 ## The Breaking Into Data Handbook
 
-You will find valuable resources for Data Analytics, Data Science, Data Engineering, Machine Learning and Computer Science. 
+In this repo you will find valuable resources to get you started in   
+Data Analytics, Data Science, Data Engineering, Machine Learning and Computer Science. 
 
 
 
@@ -107,6 +108,7 @@ Paid:
 [Danny Ma - SQL](https://www.linkedin.com/in/datawithdanny/)   
 [Vin Vashishta - AI](https://www.linkedin.com/in/vineetvashishta/)   
 [Nick Singh - SQL & Interviews](https://www.linkedin.com/in/nick-singh-tech/)   
+[Sundas Khalid](https://www.linkedin.com/in/sundaskhalid/)   
 
 ### Youtube:    
 

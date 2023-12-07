@@ -77,7 +77,7 @@ Paid:
 [Chip Huyen's MLOps Community](https://discord.gg/dzh728c5t3)   
 [EcZachly Data Engineering Community](https://discord.com/invite/JGumAXncAK)   
 [DataTalks Club](https://datatalks.club/slack)   
-
+[AICamp]([https://datatalks.club/slack](https://www.aicamp.ai/))   
 
 
 
@@ -143,6 +143,7 @@ Paid:
 [Practical AI](https://changelog.com/practicalai)  
 [Chai Time Data Science](https://sanyambhutani.com/tag/chaitimedatascience/)   
 [The Data Scientist Show](https://www.youtube.com/@TheDataScientistShow) 
+[AI Chronicles](https://www.youtube.com/channel/UCVXhvCHU_wZ7lnzal-ZpfMQ) 
 
 ## Newsletters
 
@@ -154,6 +155,7 @@ Paid:
 [Ahead of AI by Sebastian Raschka](https://magazine.sebastianraschka.com/)  
 [Underfitted by Santiago](https://underfitted.svpino.com/)  
 [Seattle Data Guy Substack](https://seattledataguy.substack.com)
+[Deeplearning AI](https://www.deeplearning.ai/the-batch/)
 
 
 

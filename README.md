@@ -128,6 +128,7 @@ Paid:
 
 ### Twitter 
 
+[Meri Nova](https://twitter.com/intelligentle__)
 [Alex Freberg](https://www.twitter.com/Alex_TheAnalyst)       
 [Zach Wilson](https://www.twitter.com/EcZachly)    
 [Daliana Liu](https://www.twitter.com/DalianaLiu)    
@@ -152,6 +153,7 @@ Paid:
 [Marvelous Mlops Newsletter](https://marvelousmlops.substack.com/)  
 [Ahead of AI by Sebastian Raschka](https://magazine.sebastianraschka.com/)  
 [Underfitted by Santiago](https://underfitted.svpino.com/)  
+[Seattle Data Guy Substack](https://seattledataguy.substack.com)
 
 
 

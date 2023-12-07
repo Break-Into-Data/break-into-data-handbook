@@ -108,7 +108,7 @@ Paid:
 [Danny Ma - SQL](https://www.linkedin.com/in/datawithdanny/)   
 [Vin Vashishta - AI](https://www.linkedin.com/in/vineetvashishta/)   
 [Nick Singh - SQL & Interviews](https://www.linkedin.com/in/nick-singh-tech/)   
-[Sundas Khalid](https://www.linkedin.com/in/sundaskhalid/)   
+[Sundas Khalid - Data Science](https://www.linkedin.com/in/sundaskhalid/)   
 
 ### Youtube:    
 
@@ -124,7 +124,7 @@ Paid:
 
 [Zach Wilson](https://www.tiktok.com/@EcZachly)   
 [Alex Freberg](https://www.tiktok.com/@Alex_theanalyst)   
-[Charlotte Fraza](https://www.tiktok.com/@charlottechaze)    
+[Charlotte Chaze](https://www.tiktok.com/@charlottechaze)    
 
 ### Twitter 
 
@@ -137,13 +137,13 @@ Paid:
 
 ## Podcasts
 
-[Gradient Dissent by WDB](https://wandb.ai/fully-connected/podcast)
-[DataFramed Podcast](https://www.datacamp.com/podcast)     
-[Towards Data Science Podcast](https://towardsdatascience.com/podcast/home)  
-[Practical AI](https://changelog.com/practicalai)  
-[Chai Time Data Science](https://sanyambhutani.com/tag/chaitimedatascience/)   
-[The Data Scientist Show](https://www.youtube.com/@TheDataScientistShow) 
-[AI Chronicles](https://www.youtube.com/channel/UCVXhvCHU_wZ7lnzal-ZpfMQ) 
+[Gradient Dissent by W&B](https://wandb.ai/fully-connected/podcast)    
+[DataFramed Podcast](https://www.datacamp.com/podcast)         
+[Towards Data Science Podcast](https://towardsdatascience.com/podcast/home)      
+[Practical AI](https://changelog.com/practicalai)     
+[Chai Time Data Science](https://sanyambhutani.com/tag/chaitimedatascience/)       
+[The Data Scientist Show](https://www.youtube.com/@TheDataScientistShow)    
+[AI Chronicles](https://www.youtube.com/channel/UCVXhvCHU_wZ7lnzal-ZpfMQ)      
 
 ## Newsletters
 
@@ -154,8 +154,8 @@ Paid:
 [Marvelous Mlops Newsletter](https://marvelousmlops.substack.com/)  
 [Ahead of AI by Sebastian Raschka](https://magazine.sebastianraschka.com/)  
 [Underfitted by Santiago](https://underfitted.svpino.com/)  
-[Seattle Data Guy Substack](https://seattledataguy.substack.com)
-[Deeplearning AI](https://www.deeplearning.ai/the-batch/)
+[Seattle Data Guy Substack](https://seattledataguy.substack.com)    
+[Deeplearning AI](https://www.deeplearning.ai/the-batch/)  
 
 
 

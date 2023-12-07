@@ -77,7 +77,7 @@ Paid:
 [Chip Huyen's MLOps Community](https://discord.gg/dzh728c5t3)   
 [EcZachly Data Engineering Community](https://discord.com/invite/JGumAXncAK)   
 [DataTalks Club](https://datatalks.club/slack)   
-[AICamp]([https://datatalks.club/slack](https://www.aicamp.ai/))   
+[AICamp](https://www.aicamp.ai/)   
 
 
 

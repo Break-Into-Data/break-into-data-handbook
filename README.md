@@ -53,7 +53,9 @@ Paid:
 [Data Engineering Fundamentals by Joe Reis & Matt Housley](https://www.amazon.com/Fundamentals-Data-Engineering-Robust-Systems/dp/B0CN1SDG2S/ref=sr_1_2?crid=3JOLANS38MVA5&keywords=data+science+fundamentals&qid=1701977884&s=audible&sprefix=data+science+fundamental%2Caudible%2C138&sr=1-2)  
 [Designing Machine Learning Systems by Chip Huyen](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969/ref=sr_1_1?crid=V44JMHSBD5KD&keywords=machine+learning+fundamentals+chip&qid=1701975138&sprefix=machine+learning+fundamentals+chip%2Caps%2C191&sr=8-1)  
 [Naked Statistics](https://www.amazon.com/Naked-Statistics-Charles-Wheelan-audiobook/dp/B00CH7FWWU/ref=sr_1_1?crid=1PZOQ6DG4HKYP&keywords=naked+statistics&qid=1701978733&sprefix=naked+statistic%2Caps%2C168&sr=8-1)  
-[Automate the Boring Stuff with Python (Free!)](https://automatetheboringstuff.com/)
+[Automate the Boring Stuff with Python (Free!)](https://automatetheboringstuff.com/)  
+[The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling, 3rd Edition](https://a.co/d/gmJBHOD)  
+[Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://a.co/d/iSm9331)
 
 ## Communities
 

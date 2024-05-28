@@ -56,6 +56,7 @@ Paid:
 [Automate the Boring Stuff with Python (Free!)](https://automatetheboringstuff.com/)  
 [The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling, 3rd Edition](https://a.co/d/gmJBHOD)  
 [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://a.co/d/iSm9331)
+[Learning Spark, Second Edition](https://pages.databricks.com/rs/094-YMS-629/images/LearningSpark2.0.pdf)
 
 ## Communities
 

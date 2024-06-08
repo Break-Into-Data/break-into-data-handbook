@@ -3,7 +3,7 @@
 In this repo you will find valuable resources to get you started in  
 Data Analytics, Data Science, Data Engineering, Machine Learning and Computer Science.
 
-**This is an open source effort.**  
+**This is an open-source effort.**  
 Please add any links you have found helpful with PR!
 
 **P.S. Don't be overwhelmed.**  
@@ -39,8 +39,6 @@ Free:
 
 Paid:
 
-[DataExpert.io](https://www.dataexpert.io)  
-[Lonely Octopus](https://www.lonelyoctopus.com)  
 [Analyst Builder](https://www.analystbuilder.com)  
 [Codecademy](https://www.codecademy.com/)   
 [Data Camp](https://www.datacamp.com/)   
@@ -59,11 +57,10 @@ Paid:
 
 ## Communities
 
-[Accountability with Meri Nova](https://discord.gg/HQ3E44uA2f)  
+[Break Into Data](https://discord.gg/HQ3E44uA2f)  
 [Cohere Community](https://discord.gg/co-mmunity)  
 [Roboflow Universe Community for Computer Vision ML](https://universe.roboflow.com/)  
 [Chip Huyen's MLOps Community](https://discord.gg/dzh728c5t3)  
-[EcZachly Data Engineering Community](https://discord.com/invite/JGumAXncAK)  
 [DataTalks Club](https://datatalks.club/slack)  
 [AICamp](https://www.aicamp.ai/)
 
@@ -82,8 +79,7 @@ Paid:
 
 ### Linkedin :
 
-[Meri Nova - Data Science](https://www.linkedin.com/in/meri-bozulanova/)  
-[Zach Wilson - Data Engineer](https://www.linkedin.com/in/eczachly/)  
+[Meri Nova - Data Science](https://www.linkedin.com/in/meri-bozulanova/)   
 [Daliana Liu - Data Science](https://www.linkedin.com/in/dalianaliu/)  
 [Alex Freberg - Data Analytics](https://www.linkedin.com/in/alex-freberg)  
 [Jess Ramos - Data Analytics](https://www.linkedin.com/in/jessramosmsba/)  
@@ -97,15 +93,13 @@ Paid:
 
 [Alex the Analyst](https://www.youtube.com/@AlexTheAnalyst)  
 [Charlotte Fraza - Computational Neuroscience](https://www.youtube.com/@CharlotteFraza)  
-[ByteByteGo System Design](https://www.youtube.com/@ByteByteGo)  
-[Data with Zach](https://www.youtube.com/@EcZachly_)  
+[ByteByteGo System Design](https://www.youtube.com/@ByteByteGo)   
 [Ken Jee](https://www.youtube.com/@KenJee_ds)  
 [Tina Huang](https://www.youtube.com/@TinaHuang1)  
 [StatQuest by Josh Starmer](https://www.youtube.com/@statquest)
 
 ### Tiktok:
-
-[Zach Wilson](https://www.tiktok.com/@EcZachly)  
+ 
 [Alex Freberg](https://www.tiktok.com/@Alex_theanalyst)  
 [Charlotte Chaze](https://www.tiktok.com/@charlottechaze)
 
@@ -113,7 +107,6 @@ Paid:
 
 [Meri Nova](https://twitter.com/intelligentle__)\
 [Alex Freberg](https://www.twitter.com/Alex_TheAnalyst)  
-[Zach Wilson](https://www.twitter.com/EcZachly)  
 [Daliana Liu](https://www.twitter.com/DalianaLiu)  
 [Vin Vashista](https://twitter.com/v_vashishta)  
 [Nick Singh](https://twitter.com/NickSinghTech)
@@ -130,8 +123,8 @@ Paid:
 
 ## Newsletters
 
+[Break Into Data](https://merinova.substack.com/)\
 [Towards Data Science](https://towardsdatascience.com/)\
-[Data Engineering Newsletter](https://substack.com/@eczachly)  
 [ByteByte Go Newsletter System Design](https://substack.com/@bytebytego)  
 [Data Analysis Journal by Olga](https://dataanalysis.substack.com/)  
 [Marvelous Mlops Newsletter](https://marvelousmlops.substack.com/)  
